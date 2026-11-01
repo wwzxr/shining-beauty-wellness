@@ -96,7 +96,7 @@
       opts.find((o) => w.includes("head") && /head/i.test(o.textContent)) ||
       opts.find((o) => w.includes("masaj") && /masaj/i.test(o.textContent)) ||
       opts.find((o) => w.includes("cilt") && /cilt/i.test(o.textContent)) ||
-      opts.find((o) => w.includes("tırnak") && /tırnak/i.test(o.textContent)) ||
+      opts.find((o) => w.includes("tırnak") && /tırnak|manikür|pedikür/i.test(o.textContent)) ||
       opts.find((o) => w.includes("wellness") && /wellness/i.test(o.textContent)) ||
       opts.find((o) => w.includes("lazer") && /lazer/i.test(o.textContent));
     if (opt) {
