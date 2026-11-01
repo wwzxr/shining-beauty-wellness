@@ -1,0 +1,10 @@
+{
+  "name": "Shining Beauty & Wellness",
+  "short_name": "Shining BW",
+  "description": "Adana Seyhan Kurtuluş'ta kadınlara özel lüks spa & güzellik merkezi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#12100d",
+  "theme_color": "#12100d",
+  "icons": [{ "src": "/favicon.png", "sizes": "512x512", "type": "image/png" }]
+}

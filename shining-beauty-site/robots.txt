@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shining-beauty-wellness-kurtulus.netlify.app/sitemap.xml
